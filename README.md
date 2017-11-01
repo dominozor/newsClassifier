@@ -23,3 +23,4 @@ it will create a model (.pkl file) from the news files in training folder. Then 
 $ python news_applet.py
 ```
 and choose .pkl file that you want to use. You can either classify a text that you write in text box or you can choose a test directory and see the accuracy result.
+:)))))))))))))))))))))))))))))))))))))))
